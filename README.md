@@ -30,7 +30,8 @@
  
  ### _BPMN модель_
 
-![](../../Downloads/TZFjxjoVAjI.jpg)
+![TZFjxjoVAjI](https://user-images.githubusercontent.com/105450142/198118166-1e0f5fe2-3a7f-4c36-9c26-9402ccee264b.jpg)
+
 
  ### _IDEF модель_
  
