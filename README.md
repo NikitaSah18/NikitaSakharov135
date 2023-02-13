@@ -56,7 +56,8 @@
 
  ### _Диаграмма сущностей_
  
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/105450142/218540586-3cb233be-665a-4035-a159-491b15d7757f.png)
+
 
  ### _Use Case модель_
 
