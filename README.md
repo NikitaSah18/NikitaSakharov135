@@ -54,7 +54,7 @@
 ![TZFjxjoVAjI](https://user-images.githubusercontent.com/105450142/198118166-1e0f5fe2-3a7f-4c36-9c26-9402ccee264b.jpg)
 
 
- ### _IDEF модель_
+ ### _Диаграмма сущностей_
  
 ![img_2.png](img_2.png)
 
